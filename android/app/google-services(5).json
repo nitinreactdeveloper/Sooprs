@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "356430974588",
+    "project_id": "auth-4263f",
+    "storage_bucket": "auth-4263f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356430974588:android:c22b7837324f4c9a92c3f9",
+        "android_client_info": {
+          "package_name": "com.Google"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356430974588-nsi8oha6t8m44rmqljb18gm89ijcmh2v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Google",
+            "certificate_hash": "4dc7487fdd1c83bd4ed547eb630b72f1a9bd1dd8"
+          }
+        },
+        {
+          "client_id": "356430974588-imnc2k7a1fje551us830gldplok2oggv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdpLNvaMx4Q9kaGpaknaKLrg2uX4qCzM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356430974588-imnc2k7a1fje551us830gldplok2oggv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356430974588:android:a611f2d63c4a0a5892c3f9",
+        "android_client_info": {
+          "package_name": "com.GoogleAuth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356430974588-imnc2k7a1fje551us830gldplok2oggv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdpLNvaMx4Q9kaGpaknaKLrg2uX4qCzM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356430974588-imnc2k7a1fje551us830gldplok2oggv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356430974588:android:a039f89b3f9bb63f92c3f9",
+        "android_client_info": {
+          "package_name": "com.PaymentApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356430974588-imnc2k7a1fje551us830gldplok2oggv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdpLNvaMx4Q9kaGpaknaKLrg2uX4qCzM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356430974588-imnc2k7a1fje551us830gldplok2oggv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356430974588:android:d1ff97fa5657491892c3f9",
+        "android_client_info": {
+          "package_name": "com.soopar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356430974588-sc168lii4hhbp3idh3pk1ipmj9ekpd2d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.soopar",
+            "certificate_hash": "4dc7487fdd1c83bd4ed547eb630b72f1a9bd1dd8"
+          }
+        },
+        {
+          "client_id": "356430974588-imnc2k7a1fje551us830gldplok2oggv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdpLNvaMx4Q9kaGpaknaKLrg2uX4qCzM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356430974588-imnc2k7a1fje551us830gldplok2oggv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
